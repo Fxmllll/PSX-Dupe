@@ -1,3 +1,5 @@
 # PSX-Dupe
 
-```lua print"dsad" ```
+```lua
+print"dsad"
+```
