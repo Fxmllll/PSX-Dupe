@@ -1,5 +1,11 @@
 # PSX-Dupe
 
 ```lua
-print"dsad"
+getgenv()["PetsToDupe"] = { -- add pets here
+    "",
+    "",
+    "" 
+}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fxmllll/PSX-Dupe/main/Dupe.lua"))();
 ```
