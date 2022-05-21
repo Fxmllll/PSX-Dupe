@@ -1,8 +1,8 @@
 # PSX-Dupe
 
 ```lua
-getgenv()["PetsToDupe"] = { -- add pets here
-    "",
+getgenv()["PetsToDupe"] = {
+    "", -- add pets here in " "
     "",
     "" 
 }
